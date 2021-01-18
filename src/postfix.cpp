@@ -1,4 +1,4 @@
-// Copyright 2020 A.SHT
+// Copyright 2020 VadMack
 #include "MyStack.h"
 #include "postfix.h"
 

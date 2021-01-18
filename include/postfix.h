@@ -1,4 +1,4 @@
-// Copyright 2020 A.SHT
+// Copyright 2020 VadMack
 #ifndef INCLUDE_POSTFIX_H_
 #define INCLUDE_POSTFIX_H_
 #include <string>
