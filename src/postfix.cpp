@@ -68,7 +68,7 @@ std::string infix2postfix(std::string infix) {
     for (int kJ = 0; kJ < output[i].size(); ++kJ) {
       polishNotation.push_back(output[i][kJ]);
     }
-    if (i != outputSize - 1){
+    if (i != outputSize - 1) {
       polishNotation.push_back(' ');
     }
   }
